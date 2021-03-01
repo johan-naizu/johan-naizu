@@ -5,7 +5,6 @@
 	<br>
 	<img src="banner.svg" width="800" height="400" alt="Click to see the source">
 	</a>
-	<br>
 	<a href="https://discord.com/invite/CWZMpFF">
 	<img align="left" alt="Discord" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 	</a>
@@ -21,5 +20,6 @@
 	<a href="https://open.spotify.com/user/3c9bzomzxndtu21v5sd3rggwe">
 	  <img align="left" alt="Spotify" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 	</a>
+	<br>
 
 </div>
