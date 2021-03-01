@@ -1,5 +1,5 @@
 
-<div align=”center”><img src="https://johan.naizu.gq/img/mstile-144x144.png">
+<div align=”center”><img src="https://johan.naizu.gq/img/mstile-144x144.png" align="center">
 </div> 
 <div align="center">
 	<br>
