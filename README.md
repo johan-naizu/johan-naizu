@@ -1,6 +1,5 @@
 
-<div align=”center”><img src="https://johan.naizu.gq/img/mstile-144x144.png" align="center">
-</div> 
+<img src="https://johan.naizu.gq/img/mstile-144x144.png" align="center">
 <div align="center">
 	<br>
 	<a href="https://raw.githubusercontent.com/sindresorhus/css-in-readme-like-wat/main/readme.md">
