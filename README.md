@@ -16,7 +16,7 @@
 	  <img align="left" alt="Reddit" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
 	</a>
 	<a href="https://www.instagram.com/johan_naizu/">
-	  <img align="left" alt="Instagram" width="23px" src="https://cdn.discordapp.com/attachments/809031839032672327/813024181229715466/436651676858974208.png" 		/>
+	  <img align="left" alt="Instagram" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Font_Awesome_5_brands_instagram.svg" 		/>
 	</a>
 	<a href="https://open.spotify.com/user/3c9bzomzxndtu21v5sd3rggwe">
 	  <img align="left" alt="Spotify" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
