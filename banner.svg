@@ -160,11 +160,11 @@
 				}
 				.fullscreenDiv {
 				    background-color:  transparent;
-				    width: 650px;
-				    height: 750px;
+				    width: 100%;
+				    height: 100%;
 				    top: 10px;
 				    left: 50%;
-				    margin-left: -325px;
+				    margin-left: -50%;
 				    position: absolute;
 				}
 				
