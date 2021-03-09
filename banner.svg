@@ -131,7 +131,7 @@
 				    left: 50%;
 				    font-size:80px;
 				    text-align: center;
-
+				    white-space: nowrap;
 				    font-family: Courier,monospace;
 				    color: #fbebeb;
 				    margin-left: -250px; /* margin is -0.5 * dimension */
