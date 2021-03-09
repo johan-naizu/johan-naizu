@@ -127,7 +127,7 @@
 				    position: absolute;
 				    width: 500px;
 				    height: 120px;
-				    top: 180px;
+				    top: 200px;
 				    left: 50%;
 				    font-size:80px;
 				    text-align: center;
@@ -142,9 +142,9 @@
 				    position: absolute;
 				    width: 500px;
 				    height: 50px;
-				    top: 250px;
+				    top: 270px;
 				    left: 50%;
-				    font-size:20px;
+				    font-size:25px;
 				    text-align: center;
 				    font-family: Courier,monospace;
 				    color: #fbebeb;
