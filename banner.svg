@@ -129,7 +129,7 @@
 				    height: 120px;
 				    top: 150px;
 				    left: 50%;
-				    font-size:90px;
+				    font-size:80px;
 				    text-align: center;
 
 				    font-family: Courier,monospace;
