@@ -19,7 +19,7 @@
 				}
 
 				.area{
-				  background: linear-gradient(#fca4a4, #FFD3D6);
+				  background: linear-gradient(#94b0ec, #94b0ec);
 				  width: 100%;
 				  height:100%;
 				  position: fixed;
