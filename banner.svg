@@ -133,8 +133,7 @@
 				    text-align: center;
 				    font-family: Courier,monospace;
 				    color: #e9f8ff;
-				    margin-left: -250px; /* margin is -0.5 * dimension */
-				    margin-top: -60px;
+				    transform: translate(-50%, -50%)
 
 				}
 				.tagline {
@@ -147,8 +146,7 @@
 				    text-align: center;
 				    font-family: Courier,monospace;
 				    color: #e9f8ff;
-				    margin-left: -250px; /* margin is -0.5 * dimension */
-				    margin-top: -25px;
+				    transform: translate(-50%, -50%)
 
 				}
 
