@@ -125,7 +125,6 @@
 				
 				.name {
 				    position: absolute;
-				    width: 500px;
 				    height: 120px;
 				    top: 200px;
 				    left: 50%;
@@ -138,7 +137,6 @@
 				}
 				.tagline {
 				    position: absolute;
-				    width: 500px;
 				    height: 50px;
 				    top: 270px;
 				    left: 50%;
