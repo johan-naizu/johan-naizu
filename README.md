@@ -38,6 +38,6 @@ Buy me a coffee if you like what i do 🥺👉👈
 
 <div id="imageContainer" style="vertical-align: bottom;display: table-cell;">
          <img src="https://github-readme-stats.vercel.app/api?username=johan-naizu&show_icons=true&title_color=00b2df&bg_color=003140&text_color=6be1ff&icon_color=00b2df&count_private=true&&hide=issues" alt="johan-naizu"/>
-         <img src="code.gif" width="349" alt="developer"/>
+         <img src="code.gif" width="348" alt="developer"/>
  </div>
 
