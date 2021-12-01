@@ -1,18 +1,14 @@
 
 ### Hey 👋🏻 I'm Johan Naizu
 
-
 <img src="https://cdn.johan.naizu.in/bullets.png" width="10"> I'm a self taught software engineer ⚙️
 </br>
 <img src="https://cdn.johan.naizu.in/bullets.png" width="10"> First year engineering student at National Institute of Technology 🎓
-</br>
-<img src="https://cdn.johan.naizu.in/bullets.png" width="10"> Learning new stuff everyday 🎊
 </br>
 <img src="https://cdn.johan.naizu.in/bullets.png" width="10"> Well versed in python 🖥
 </br>
 <img src="https://cdn.johan.naizu.in/bullets.png" width="10"> He/Him 🧬
 </br>
-
 
 **languages and tools:**  
 
