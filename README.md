@@ -2,15 +2,15 @@
 ### Hey 👋🏻 I'm Johan Naizu
 
 
-<img src="https://cdn.johan.naizu.in/bulleg" width="10"> I'm a self taught software engineer ⚙️
+<img src="https://cdn.johan.naizu.in/bullet.png" width="10"> I'm a self taught software engineer ⚙️
 </br>
-<img src="https://cdn.johan.naizu.in/bullpng" width="10"> First year engineering student at National Institute of Technology 🎓
+<img src="https://cdn.johan.naizu.in/bullet.png" width="10"> First year engineering student at National Institute of Technology 🎓
 </br>
-<img src="https://cdn.johan.naizu.in/bung" width="10"> Learning new stuff everyday 🎊
+<img src="https://cdn.johan.naizu.in/bullet.png" width="10"> Learning new stuff everyday 🎊
 </br>
-<img src="https://cdn.johan.naizu.in/bulleg" width="10"> Well versed in python 🖥
+<img src="https://cdn.johan.naizu.in/bullet.png" width="10"> Well versed in python 🖥
 </br>
-<img src="https://cdn.johan.naizu.in/bull.png" width="10"> He/Him 🧬
+<img src="https://cdn.johan.naizu.in/bullet.png" width="10"> He/Him 🧬
 </br>
 
 
