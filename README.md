@@ -16,13 +16,13 @@
 Buy me a coffee if you like what i do 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/johan.naizu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-<a href="https://discord.com/invite/SqS3kEGu5E">
+<a href="https://discord.com/invite/SqS3kEGu5E" target="_blank">
   <img align="right" alt="Discord" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a>
-<a href="https://twitter.com/johan_naizu">
+<a href="https://twitter.com/johan_naizu" target="_blank">
   <img align="right" alt="Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>
-<a href="https://www.linkedin.com/in/johan-naizu/">
+<a href="https://www.linkedin.com/in/johan-naizu/" target="_blank">
   <img align="right" alt="LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
-<a href="https://johan.naizu.in">
+<a href="https://johan.naizu.in" target="_blank">
   <img align="right" alt="Johan" width="30px" src="https://cdn.johan.naizu.in/avatar64.png" /></a>
 </br>
 
