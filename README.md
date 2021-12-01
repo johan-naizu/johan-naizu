@@ -39,9 +39,12 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
-<div align="center">
-  <div style="display: flex; align-items: flex-end;position:relative">
-    <img style="position: absolute; bottom: 0" src="https://github-readme-stats.vercel.app/api?username=johan-naizu&show_icons=true&title_color=00b2df&bg_color=003140&text_color=6be1ff&icon_color=00b2df&count_private=true&&hide=issues" alt="johan-naizu" />
-    <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400"/>
-  </div>
+
+
+
+
+
+<div id="imageContainer" style="vertical-align: bottom;display: table-cell;">
+        <img src="https://github-readme-stats.vercel.app/api?username=johan-naizu&show_icons=true&title_color=00b2df&bg_color=003140&text_color=6be1ff&icon_color=00b2df&count_private=true&&hide=issues" alt="johan-naizu"/>
+        <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="460" alt="developer"/>
 </div>
