@@ -1,9 +1,18 @@
 
-### I'm [Johan Naizu](https://johan.naizu.in), a self-taught software developer and engineer
+### Hey 👋🏻 I'm Johan Naizu
 
 
-<img style="vertical-align:center" src="https://cdn.johan.naizu.in/bullet.png" width="15"> any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
-- 💬 ask me about anything, i am happy to help;
+<img src="https://cdn.johan.naizu.in/bullet.png" width="10"> I'm a self taught software engineer ⚙️
+</br>
+<img src="https://cdn.johan.naizu.in/bullet.png" width="10"> First year engineering student at National Institute of Technology 🎓
+</br>
+<img src="https://cdn.johan.naizu.in/bullet.png" width="10"> Learning new stuff everyday 🎊
+</br>
+<img src="https://cdn.johan.naizu.in/bullet.png" width="10"> Well versed in python 🖥
+</br>
+<img src="https://cdn.johan.naizu.in/bullet.png" width="10"> He/Him 🧬
+</br>
+
 
 **languages and tools:**  
 
