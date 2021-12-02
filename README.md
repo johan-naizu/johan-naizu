@@ -11,11 +11,18 @@
 </br>
 
 **languages and tools:**  
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<div id="image" style="vertical-align: bottom;display: table-cell;">
+<img height="40" src="https://cdn.johan.naizu.in/icon-python.png">
+<img height="40" src="https://cdn.johan.naizu.in/icon-mysql.png">
+<img height="40" src="https://cdn.johan.naizu.in/icon-firebase.png">
+<img height="40" src="https://cdn.johan.naizu.in/icon-pycharm.png">
+<img height="40" src="https://cdn.johan.naizu.in/icon-aws.png">
+<img height="40" src="https://cdn.johan.naizu.in/icon-azure.png">
+<img height="40" src="https://cdn.johan.naizu.in/icon-html.png">
+<img height="40" src="https://cdn.johan.naizu.in/icon-bootstrap.png">
+<img height="40" src="https://cdn.johan.naizu.in/icon-vsc.png">
+<img height="40" src="https://cdn.johan.naizu.in/icon-atom.png">
+ </div>
 
 Buy me a coffee if you like what i do 🥺👉👈
 
