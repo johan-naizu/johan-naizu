@@ -1,7 +1,7 @@
 
 ### Hey 👋🏻 I'm Johan Naizu
 
-<img src="https://cdn.johan.naizu.in/bullets.png" width="10"> I'm a self taught software engineer ⚙️
+<img src="https://cdn.johan.naizu.in/bullets.png" width="10"> I'm a self taught software developer ⚙️
 </br>
 <img src="https://cdn.johan.naizu.in/bullets.png" width="10"> First year engineering student at National Institute of Technology 🎓
 </br>
