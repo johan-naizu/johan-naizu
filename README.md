@@ -22,6 +22,10 @@
 <img height="40" src="https://cdn.johan.naizu.in/icon-bootstrap.png">
 <img height="40" src="https://cdn.johan.naizu.in/icon-vsc.png">
 <img height="40" src="https://cdn.johan.naizu.in/icon-atom.png">
+<img height="40" src="https://cdn.johan.naizu.in/icon-cloudfare.png">
+<img height="40" src="https://cdn.johan.naizu.in/icon-stackoverflow.png">
+<img height="40" src="https://cdn.johan.naizu.in/icon-ubuntu.png">
+<img height="40" src="https://cdn.johan.naizu.in/icon-windows.png">
  </div>
 
 Buy me a coffee if you like what i do 🥺👉👈
