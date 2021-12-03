@@ -27,6 +27,8 @@
 Buy me a coffee if you like what i do 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/johan.naizu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://paypal.me/jnaizu" target="_blank"><img src="https://cdn.johan.naizu.in/paypal.png" alt="paypal me" height="42" ></a>
+<a href="https://www.patreon.com/johan_naizu" target="_blank"><img src="https://cdn.johan.naizu.in/patreon.png" alt="paypal me" height="42" ></a>
 <a href="https://discord.com/invite/SqS3kEGu5E" target="_blank">
   <img align="right" alt="Discord" width="30px" src="https://cdn.johan.naizu.in/discord.svg" /></a>
 <a href="https://twitter.com/johan_naizu" target="_blank">
