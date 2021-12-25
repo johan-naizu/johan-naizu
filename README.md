@@ -26,6 +26,8 @@
 <img height="40" src="https://cdn.johan.naizu.in/icon-stackoverflow.png">
 <img height="40" src="https://cdn.johan.naizu.in/icon-ubuntu.png">
 <img height="40" src="https://cdn.johan.naizu.in/icon-windows.png">
+ <img height="40" src="https://cdn.johan.naizu.in/icon-docker.png">
+ <img height="40" src="https://cdn.johan.naizu.in/icon-git.png">
  </div>
 
 Buy me a coffee if you like what i do 🥺👉👈
