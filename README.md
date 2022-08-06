@@ -41,7 +41,7 @@ Buy me a coffee if you like what i do 🥺👉👈
   <img align="right" alt="Twitter" width="30px" src="https://cdn.johan.naizu.in/twitter.svg" /></a>
 <a href="https://www.linkedin.com/in/johan-naizu/" target="_blank">
   <img align="right" alt="LinkedIN" width="30px" src="https://cdn.johan.naizu.in/linkedin.svg" /></a>
-<a href="https://johan.naizu.in" target="_blank">
+<a href="https://jonaz.tech" target="_blank">
   <img align="right" alt="Johan" width="30px" src="https://cdn.johan.naizu.in/avatar.svg" /></a>
 </br>
 
