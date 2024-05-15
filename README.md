@@ -4,7 +4,7 @@
 
 <img src="https://cdn.jonaz.tech/bullets.png" width="10"> I'm a self taught software developer ⚙️
 </br>
-<img src="https://cdn.jonaz.tech/bullets.png" width="10"> First year engineering student at National Institute of Technology 🎓
+<img src="https://cdn.jonaz.tech/bullets.png" width="10"> Final year engineering student at National Institute of Technology 🎓
 </br>
 <img src="https://cdn.jonaz.tech/bullets.png" width="10"> Well versed in python 🖥
 </br>
