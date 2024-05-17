@@ -6,10 +6,12 @@
 </br>
 <img src="https://cdn.jonaz.tech/bullets.png" width="10"> Final year engineering student at National Institute of Technology 🎓
 </br>
-<img src="https://cdn.jonaz.tech/bullets.png" width="10"> Well versed in python 🖥
+<img src="https://cdn.jonaz.tech/bullets.png" width="10"> Well versed in Python and Node 🖥
 </br>
 <img src="https://cdn.jonaz.tech/bullets.png" width="10"> He/Him 🧬
 </br>
+</br>
+[jonaz.tech](https://jonaz.tech)
 
 **languages and tools:**  
 <div id="image" style="vertical-align: bottom;display: table-cell;">
