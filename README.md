@@ -40,8 +40,6 @@ Buy me a coffee if you like what i do 🥺👉👈
 <a href="https://www.patreon.com/johan_naizu" target="_blank"><img src="https://cdn.jonaz.tech/patreon.png" alt="paypal me" height="42" ></a>
 <a href="https://discord.com/invite/SqS3kEGu5E" target="_blank">
   <img align="right" alt="Discord" width="30px" src="https://cdn.jonaz.tech/discord.svg" /></a>
-<a href="https://twitter.com/johan_naizu" target="_blank">
-  <img align="right" alt="Twitter" width="30px" src="https://cdn.jonaz.tech/twitter.svg" /></a>
 <a href="https://www.linkedin.com/in/johan-naizu/" target="_blank">
   <img align="right" alt="LinkedIN" width="30px" src="https://cdn.jonaz.tech/linkedin.svg" /></a>
 <a href="https://jonaz.tech" target="_blank">
